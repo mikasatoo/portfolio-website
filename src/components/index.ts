@@ -1,1 +1,7 @@
 export { Header } from './Header'
+export { Home } from './Home'
+export { About } from './About'
+export { Experience } from './Experience'
+export { Projects } from './Projects'
+export { Blog } from './Blog'
+export { ErrorPage } from './error-page'
